@@ -4,10 +4,10 @@ This document contains summary on recommended knowledge topics for new and curre
 
 **Table of contents**
 
-1. [Basig Knowledge]{#basic_knowledge}
-2. [SCIRT subteams]{csirt_subteams}
-3. [Red Team]{#red_team}
-4. [Blue Team]{#blue_team}
+1. [Basig Knowledge](#basic_knowledge)
+2. [SCIRT subteams](csirt_subteams)
+3. [Red Team](#red_team)
+4. [Blue Team](#blue_team)
 
 ## Basic Konwledge
 
