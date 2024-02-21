@@ -23,6 +23,7 @@ Knowledge that is mandatory for each member to have. Every new member upon accep
   - https://tryhackme.com/room/trafficanalysisessentials
   - https://tryhackme.com/room/beginnerpathintro
 - Incident handling/ basic hacing tools and techniques
+- Forensics - https://www.dfir.training/video-playlists/introduction-to-memory-forensics
 
 API Prereguisisties
 - OS (C)
@@ -265,6 +266,7 @@ Responsible disclosure is essential for maintaining a cooperative and ethical ap
 - Threat Intelligence for SOC - https://tryhackme.com/room/threatintelligenceforsoc
 - IR - https://tryhackme.com/room/preparation
 - IR2 - https://tryhackme.com/room/identificationandscoping
+- https://book.blueteamguides.com/
 #### Understanding the Blue Team's Role
 
 The Blue Team represents defenders within an organization, dedicated to fortifying its systems, strategies, and security measures. Their primary objective is to uphold and safeguard the organization against potential threats, ensuring a robust defense that mitigates risks and maintains operational continuity.
