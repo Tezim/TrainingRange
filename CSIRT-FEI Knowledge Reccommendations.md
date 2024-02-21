@@ -12,10 +12,16 @@ This document contains summary on recommended knowledge topics for new and curre
 ## Basic Konwledge
 Knowledge that is mandatory for each member to have. Every new member upon acceptance into CSIRT-FEI is tested or educated on this basic knowledge. It is recommended to complete each suggested course for each topic. 
 
-- Networking, protocols 
+- Networking, protocols  https://tryhackme.com/room/introtonetworking
 - Python/bash/(scripting)
 - OS - Linux/Windows
+  - https://tryhackme.com/room/linuxmodules
+  - https://tryhackme.com/room/investigatingwindows 
 - Cybersecurity essentials
+  - https://tryhackme.com/room/jrsecanalystintrouxo 
+  - https://tryhackme.com/room/threatintelligenceforsoc
+  - https://tryhackme.com/room/trafficanalysisessentials
+  - https://tryhackme.com/room/beginnerpathintro
 - Incident handling/ basic hacing tools and techniques
 
 API Prereguisisties
@@ -48,15 +54,7 @@ Network monitoring team takes role of maintaining security of devices by monitor
 - OS administration
 - Networking and protocols
 - SIEM systems
-- basoc SOC knowledge
-
-### Tasking system
-
-### Web team
-
-### Wazuh 
-
-### Alerting system 
+- basic SOC knowledge
 
 ## Red Team
 
@@ -248,12 +246,23 @@ Responsible disclosure is essential for maintaining a cooperative and ethical ap
 - **Diverse Challenges:** It offers tasks in cryptography, reverse engineering, forensics, and more, mimicking real-world scenarios.
 - **Hands-On Learning:** Participants engage in problem-solving and critical thinking, gaining practical experience in a user-friendly environment.
 
-#### `TODO`
+#### Try hack me
+Intro to offensive security - https://tryhackme.com/room/introtooffensivesecurity
+Red Team Engagement - https://tryhackme.com/room/redteamengagements
+Red Team Fundamentals - https://tryhackme.com/room/redteamfundamentals
+Basic Pentesting - https://tryhackme.com/room/basicpentestingjt
+
 
 ## Blue Team
 
-### Introduction to Blue Teaming
-
+#### Try Hack Me
+- Junior security analyst intro - https://tryhackme.com/room/jrsecanalystintrouxo
+- Threat Intelligence info - https://tryhackme.com/room/threatinteltools
+- Wazuh - https://tryhackme.com/room/wazuhct
+- *honeypots - https://tryhackme.com/room/introductiontohoneypots
+- Threat Intelligence for SOC - https://tryhackme.com/room/threatintelligenceforsoc
+- IR - https://tryhackme.com/room/preparation
+- IR2 - https://tryhackme.com/room/identificationandscoping
 #### Understanding the Blue Team's Role
 
 The Blue Team represents defenders within an organization, dedicated to fortifying its systems, strategies, and security measures. Their primary objective is to uphold and safeguard the organization against potential threats, ensuring a robust defense that mitigates risks and maintains operational continuity.
